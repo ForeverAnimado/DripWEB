@@ -3,6 +3,26 @@
    
 }
 
+#hero .logo:hover{
+    
+}
+
+.redes-sociales .instagram{
+    padding-left: 50px;
+}
+
+.redes-sociales .twitter{
+    padding-right: 50px;
+}
+
+.redes-sociales .youtube{
+    padding-bottom: 50px;
+}
+
+iframe {
+    padding-bottom: 50px;
+}
+
 body {
     font-family: 'Roboto', sans-serif;
     margin: 0%;
